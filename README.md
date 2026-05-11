@@ -60,7 +60,3 @@ The `change_direction()` function turns the turtle **right** by a random multipl
 - **Change pen width** — adjust `tim.width(12)` for thinner or thicker lines
 - **Change speed** — set `tim.speed()` to `'slow'`, `'normal'`, `'fast'`, or `'fastest'`
 - **Add a background color** — use `tim.getscreen().bgcolor("black")` for a dark canvas
-
-## License
-
-Free to use and modify. No attribution required.
