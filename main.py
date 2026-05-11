@@ -3,7 +3,7 @@ from turtle import Turtle
 
 tim = Turtle()
 
-colors = ["DeepSkyBlue4", "LightSteelBlue", "CornflowerBlue", "RoyalBlue", "Blue", "MediumBlue", "Navy", "DarkBlue"]
+colors = ["red", "blue", "green", "yellow", "purple", "orange", "pink", "teal"]
 
 n = 0
 
